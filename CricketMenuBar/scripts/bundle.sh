@@ -4,9 +4,9 @@
 set -euo pipefail
 
 CONFIG="${CONFIG:-debug}"
-BUNDLE_ID="com.celeroncoder.CricketMenuBar"
+BUNDLE_ID="com.celeroncoder.CricketMenuBarLive"
 APP_NAME="CricketMenuBar"
-REVERSED_CLIENT_ID="REPLACE_WITH_YOUR_REVERSED_CLIENT_ID"
+REVERSED_CLIENT_ID="com.googleusercontent.apps.298147131201-hjimmps69au2jcle02ctg4vogfpkutqp"
 
 ROOT="$(cd "$(dirname "$0")/.." && pwd)"
 cd "$ROOT"

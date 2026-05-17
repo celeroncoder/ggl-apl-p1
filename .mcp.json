@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "RapidAPI Hub - Cricbuzz Cricket": {
+      "command": "npx",
+      "args": [
+        "mcp-remote",
+        "https://mcp.rapidapi.com",
+        "--header",
+        "x-api-host: cricbuzz-cricket.p.rapidapi.com",
+        "--header",
+        "x-api-key: REPLACE_WITH_YOUR_RAPIDAPI_KEY"
+      ]
+    }
+  }
+}

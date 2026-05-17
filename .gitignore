@@ -1,0 +1,45 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+# Xcode / Swift
+.build/
+.swiftpm/
+*.xcodeproj/xcuserdata/
+*.xcworkspace/xcuserdata/
+xcuserdata/
+DerivedData/
+*.xcuserstate
+*.xcscmblueprint
+*.xccheckout
+Package.pins
+
+# SwiftPM build artifacts
+CricketMenuBar/.build/
+CricketMenuBar/.swiftpm/
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnp.*
+
+# Env / secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Logs / temp
+*.log
+*.tmp
+*.swp
+scratch_*.json
+
+# Claude
+.claude/settings.local.json

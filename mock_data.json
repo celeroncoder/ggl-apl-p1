@@ -1,0 +1,67 @@
+{
+  "matches": [
+    {
+      "id": "match_1",
+      "title": "Rajasthan Royals vs Delhi Capitals",
+      "score": "RR 96/2 (8.4)",
+      "tournament": "IPL",
+      "isLive": true,
+      "team1": {
+        "name": "Rajasthan Royals",
+        "abbreviation": "RR",
+        "score": "96/2",
+        "overs": "(8.4)",
+        "status": null
+      },
+      "team2": {
+        "name": "Delhi Capitals",
+        "abbreviation": "DC",
+        "score": null,
+        "overs": null,
+        "status": "Yet to bat"
+      },
+      "statusText": "DC chose to bowl • CRR: 11.08",
+      "matchFormat": "T20 62 of 74",
+      "commentary_chunks": [
+        "17.2 Cummins to Hardik, OUT! Caught by Warner at deep mid-wicket. Hardik tried to clear the boundary but didn't get enough distance. Massive wicket for Australia!",
+        "17.1 Cummins to Kohli, 1 run, yorker length on off, Kohli squeezes it out to point for a quick single.",
+        "16.6 Starc to Kohli, SIX! In the slot and Kohli punishes it over long-on. What a shot!",
+        "16.5 Starc to Kohli, FOUR! Short and wide, Kohli slaps it through cover. No chance for the fielder.",
+        "16.4 Starc to Hardik, 1 run, back of a length, tucked away to deep square leg.",
+        "16.3 Starc to Hardik, no run, beaten! Swing and a miss.",
+        "16.2 Starc to Hardik, SIX! Short ball, Hardik pulls it powerfully over deep mid-wicket.",
+        "16.1 Starc to Kohli, 1 run, pushed down to long-off."
+      ],
+      "activities": [
+        {
+          "type": "wicket",
+          "event": "WICKET",
+          "description": "Hardik Pandya (12) c Warner b Cummins",
+          "commentary_snippet": "OUT! Caught by Warner at deep mid-wicket.",
+          "timestamp": "2026-05-17T14:35:00Z"
+        },
+        {
+          "type": "six",
+          "event": "SIX",
+          "description": "Virat Kohli hits Starc for a massive SIX over long-on!",
+          "commentary_snippet": "SIX! In the slot and Kohli punishes it over long-on.",
+          "timestamp": "2026-05-17T14:32:00Z"
+        },
+        {
+          "type": "four",
+          "event": "FOUR",
+          "description": "Kohli finds the boundary with a crisp cover drive.",
+          "commentary_snippet": "FOUR! Short and wide, Kohli slaps it through cover.",
+          "timestamp": "2026-05-17T14:31:30Z"
+        },
+        {
+          "type": "six",
+          "event": "SIX",
+          "description": "Hardik Pandya pulls Starc for SIX!",
+          "commentary_snippet": "SIX! Short ball, Hardik pulls it powerfully.",
+          "timestamp": "2026-05-17T14:29:00Z"
+        }
+      ]
+    }
+  ]
+}
